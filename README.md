@@ -52,6 +52,16 @@ php artisan serve
 - Jika kategori kosong, jalankan seeder:
   php artisan db:seed --class=KategoriSeeder
 
+🖼 Tampilan Arsip Surat
+<img width="1920" height="912" alt="screencapture-127-0-0-1-8000-2025-09-19-18_34_55" src="https://github.com/user-attachments/assets/29a274c6-c156-4f5e-83a0-fc767cf5d439" />
+<img width="1920" height="1170" alt="screencapture-127-0-0-1-8000-surat-6-2025-09-19-18_35_30" src="https://github.com/user-attachments/assets/6f8c8225-90b1-4d51-8c8b-91197ea1e28b" />
+
+🖼 Tampilan Kategori
+<img width="1920" height="912" alt="screencapture-127-0-0-1-8000-categories-2025-09-19-18_36_06" src="https://github.com/user-attachments/assets/15646160-786a-438d-8275-21db7ccc9387" />
+
+🖼 Tampilan About
+<img width="1920" height="912" alt="screencapture-127-0-0-1-8000-about-2025-09-19-18_39_49" src="https://github.com/user-attachments/assets/270451cc-2921-45f4-a0d4-1ea2010705b2" />
+
 <h3 align="center">👨‍💻 Dibuat oleh</h3>
 
 <p align="center">
